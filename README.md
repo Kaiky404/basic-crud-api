@@ -88,5 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🧑‍💻 Authors
 
-* **Kaiky de M. B. Viana** - [Kaiky404](https://github.com/Kaiky404)
+* **Kaiky F. Silva** - [Kaiky404](https://github.com/Kaiky404)
 * **Eduarda de Oliveira Santos** - [EduardaOliveiraSantos](https://github.com/EduardaOliveiraSantos)
